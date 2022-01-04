@@ -1,0 +1,15 @@
+#screenGameObject {
+    width: 800px;
+    height: 150px;
+    background-color: rgb(99, 194, 150);
+}
+#screenMessageBox {
+    width: 800px;
+    height: 500px;
+    background-color: pink;
+}
+#screenPlayerInfo{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(143, 179, 194);
+}
